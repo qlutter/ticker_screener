@@ -1,0 +1,5 @@
+# 예시 티커
+MSFT
+NVDA
+RKLB
+PLTR
